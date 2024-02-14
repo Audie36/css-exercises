@@ -1,13 +1,13 @@
-.first,
-.second{
+.embossed,
+.fancy{
     font-size: 28px;
     font-family: 'Helvetica', 'Times New Roman', sans-serif;
 }
-.first{
+.embossed{
     background-color: black;
     color: white;
     font-weight: bold;
 }
-.second{
+.fancy{
     background-color: #ffff00;
 }
