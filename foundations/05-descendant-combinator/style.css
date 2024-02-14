@@ -1,0 +1,5 @@
+div .text{
+    background-color: yellow;
+    color: hsl(360,100%,50%);
+    text-align: center;
+}
